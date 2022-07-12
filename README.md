@@ -1,4 +1,8 @@
-- @DWebCampDirectory
+DWeb Camp ID 
+
+gist.github.com/DWebCampDirectory 
+
+@DWebCampDirectory
 - We are innovating in Decentralized Identity at DWeb Camp 2022
 - More at DWebCamp.directory
 
